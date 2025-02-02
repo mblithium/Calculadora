@@ -14,9 +14,10 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Setup Latest Yarn
+      - name: Setup Latest Yarn + No Cache
         uses: threeal/setup-yarn-action@v2.0.0
         with:
+          cache: false
           version: latest
 
       - name: Build project
