@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512"
+   height="512"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   sodipodi:docname="icone-calculadora.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="0.72558594"
+     inkscape:cx="328.69986"
+     inkscape:cy="229.46972"
+     inkscape:window-width="1920"
+     inkscape:window-height="988"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g17" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <ellipse
+       style="display:none;fill:none;stroke:#000000;stroke-width:1.01522;stroke-linecap:round"
+       id="path1"
+       cx="256"
+       cy="256"
+       rx="231.37425"
+       ry="231.62791" />
+    <rect
+       style="fill:#333333;stroke:#4d4d4d;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2"
+       width="261.15024"
+       height="382.43518"
+       x="125.62917"
+       y="64.642609"
+       ry="19.29475" />
+    <rect
+       style="fill:#666666;stroke:#4d4d4d;stroke-width:6.48844;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3"
+       width="227.76799"
+       height="130.81841"
+       x="142.91174"
+       y="80.679619"
+       ry="18.688347" />
+    <rect
+       style="fill:#4d4d4d;stroke:#4d4d4d;stroke-width:5.18619;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
+       id="rect4"
+       width="56.063484"
+       height="135.37816"
+       x="317.76736"
+       y="297.78406"
+       ry="20.827408" />
+    <rect
+       style="fill:#4d4d4d;stroke:#4d4d4d;stroke-width:2.90948;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       id="rect21"
+       width="58.34"
+       height="40.944462"
+       x="316.629"
+       y="242.07191"
+       ry="6.2991481" />
+    <rect
+       style="fill:#4d4d4d;stroke:#4d4d4d;stroke-width:4.35805;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
+       id="rect22"
+       width="141.86359"
+       height="37.778564"
+       x="152.50009"
+       y="395.79773"
+       ry="5.8120861" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="LCD">
+    <g
+       id="g17"
+       transform="translate(115.7685,9.6473753)">
+      <ellipse
+         style="fill:#000000;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         id="ellipse16"
+         cx="185.64836"
+         cy="123.96371"
+         rx="22.170605"
+         ry="21.637842" />
+      <ellipse
+         style="fill:#cccccc;fill-opacity:1;stroke:#cccccc;stroke-width:1.00322;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         id="ellipse17"
+         cx="199.9464"
+         cy="107.16016"
+         rx="4.4483786"
+         ry="4.3414836" />
+    </g>
+    <g
+       id="g15"
+       transform="translate(24.118439,9.6473753)">
+      <ellipse
+         style="fill:#000000;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         id="ellipse14"
+         cx="185.64836"
+         cy="123.96371"
+         rx="22.170605"
+         ry="21.637842" />
+      <ellipse
+         style="fill:#cccccc;fill-opacity:1;stroke:#cccccc;stroke-width:1.00322;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         id="ellipse15"
+         cx="199.9464"
+         cy="107.16016"
+         rx="4.4483786"
+         ry="4.3414836" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Multiplicar"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <rect
+       style="fill:#0055d4;stroke:#0055d4;stroke-width:3.57416;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       id="rect17"
+       width="61.069"
+       height="59.027626"
+       x="150.41124"
+       y="247.69072"
+       ry="9.0811739"
+       inkscape:label="Fundo" />
+    <g
+       id="g22"
+       inkscape:label="Multiplicar">
+      <rect
+         style="fill:#5599ff;fill-opacity:1;stroke:#5599ff;stroke-width:3.57416;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         id="rect5"
+         width="61.069"
+         height="59.027626"
+         x="150.41124"
+         y="240.45518"
+         ry="9.0811739"
+         inkscape:label="Fundo" />
+      <g
+         id="g23"
+         inkscape:label="Vezes">
+        <path
+           style="fill:#4d4d4d;fill-opacity:1;stroke:#4d4d4d;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           d="m 161.04143,288.21787 38.00675,-38.00676"
+           id="path22" />
+        <path
+           style="fill:#4d4d4d;fill-opacity:1;stroke:#4d4d4d;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           d="M 199.04818,288.21787 161.04143,250.21111"
+           id="path23"
+           sodipodi:nodetypes="cc" />
+      </g>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g10"
+     inkscape:label="Botao"
+     style="display:inline">
+    <rect
+       style="fill:#0055d4;stroke:#0055d4;stroke-width:3.57416;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       id="rect6"
+       width="61.069"
+       height="59.027626"
+       x="150.41124"
+       y="247.69072"
+       ry="9.0811739"
+       inkscape:label="Fundo" />
+    <rect
+       style="display:inline;fill:#5599ff;fill-opacity:1;stroke:#5599ff;stroke-width:3.57416;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7"
+       width="61.069"
+       height="59.027626"
+       x="150.41124"
+       y="240.45518"
+       ry="9.0811739"
+       inkscape:label="Fundo" />
+    <rect
+       style="display:inline;fill:#5599ff;fill-opacity:1;stroke:#5599ff;stroke-width:3.57416;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       id="rect12"
+       width="61.069"
+       height="59.027626"
+       x="150.41124"
+       y="240.45518"
+       ry="9.0811739"
+       inkscape:label="Fundo" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g11"
+     inkscape:label="Botao"
+     style="display:inline"
+     transform="translate(83.275215)">
+    <rect
+       style="fill:#0055d4;stroke:#0055d4;stroke-width:3.57416;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       id="rect10"
+       width="61.069"
+       height="59.027626"
+       x="150.41124"
+       y="247.69072"
+       ry="9.0811739"
+       inkscape:label="Fundo" />
+    <rect
+       style="display:inline;fill:#5599ff;fill-opacity:1;stroke:#5599ff;stroke-width:3.57416;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       id="rect11"
+       width="61.069"
+       height="59.027626"
+       x="150.41124"
+       y="240.45518"
+       ry="9.0811739"
+       inkscape:label="Fundo" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g16"
+     inkscape:label="Botao"
+     style="display:inline"
+     transform="translate(3.2424927e-4,77.4753)">
+    <rect
+       style="fill:#0055d4;stroke:#0055d4;stroke-width:3.57416;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       id="rect13"
+       width="61.069"
+       height="59.027626"
+       x="150.41124"
+       y="247.69072"
+       ry="9.0811739"
+       inkscape:label="Fundo" />
+    <rect
+       style="display:inline;fill:#5599ff;fill-opacity:1;stroke:#5599ff;stroke-width:3.57416;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       id="rect14"
+       width="61.069"
+       height="59.027626"
+       x="150.41124"
+       y="240.45518"
+       ry="9.0811739"
+       inkscape:label="Fundo" />
+    <rect
+       style="display:inline;fill:#5599ff;fill-opacity:1;stroke:#5599ff;stroke-width:3.57416;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       id="rect15"
+       width="61.069"
+       height="59.027626"
+       x="150.41124"
+       y="240.45518"
+       ry="9.0811739"
+       inkscape:label="Fundo" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g18"
+     inkscape:label="Botao"
+     style="display:inline"
+     transform="translate(83.275383,81.093067)">
+    <rect
+       style="fill:#0055d4;stroke:#0055d4;stroke-width:3.57416;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       id="rect16"
+       width="61.069"
+       height="59.027626"
+       x="150.41107"
+       y="244.07295"
+       ry="9.0811739"
+       inkscape:label="Fundo" />
+    <rect
+       style="display:inline;fill:#5599ff;fill-opacity:1;stroke:#5599ff;stroke-width:3.57416;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       id="rect18"
+       width="61.069"
+       height="59.027626"
+       x="150.41107"
+       y="236.83742"
+       ry="9.0811739"
+       inkscape:label="Fundo" />
+  </g>
+</svg>

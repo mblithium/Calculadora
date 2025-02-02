@@ -1,0 +1,31 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+@media (prefers-color-scheme: light) {
+  :root {
+    color: #213547;
+    background-color: #ffffff;
+  }
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+}
+
+div#display {
+  display: flex;  
+}
+
+input#display {
+  width: 100%;
+  padding: 10px;
+}
+
+/* Bem, não precisamos de muito estilo no momento. */
+button {
+  padding: 20px;
+  margin: 2px;
+}
