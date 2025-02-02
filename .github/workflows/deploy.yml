@@ -20,6 +20,9 @@ jobs:
           cache: false
           version: latest
 
+      - name: Set BASE_PATH
+        run: echo "BASE_PATH=/Calculadora/" >> $GITHUB_ENV
+
       - name: Build project
         run: yarn build
 

@@ -43,7 +43,7 @@ const PWA_Manifest = {
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/',
+  base: process.env.BASE_PATH || '/',
   plugins: [
     svelte(),
     VitePWA({ 
