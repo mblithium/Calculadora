@@ -21,8 +21,6 @@ jobs:
           version: latest
 
       - name: Build project
-        env: 
-          BASE_PATH: '/${{ github.event.repository.name }}'
         run: yarn build
 
       - name: Upload production-ready build files
