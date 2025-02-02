@@ -21,6 +21,8 @@ jobs:
           version: latest
 
       - name: Build project
+        env: 
+          BASE_PATH: '/${{ github.event.repository.name }}'
         run: yarn build
 
       - name: Upload production-ready build files
@@ -34,6 +36,10 @@ jobs:
     needs: build
     runs-on: ubuntu-latest
     if: github.ref == 'refs/heads/main'
+
+    permissions:
+      pages: write
+      id-token: write
 
     steps:
       - name: Download artifact

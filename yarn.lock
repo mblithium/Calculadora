@@ -1116,6 +1116,11 @@
     magic-string "^0.25.0"
     string.prototype.matchall "^4.0.6"
 
+"@sveltejs/adapter-static@^3.0.8":
+  version "3.0.8"
+  resolved "https://registry.yarnpkg.com/@sveltejs/adapter-static/-/adapter-static-3.0.8.tgz#f23ee99a9678dbaec58b79d183bc3defbfe99f1a"
+  integrity sha512-YaDrquRpZwfcXbnlDsSrBQNCChVOT9MGuSg+dMAyfsAa1SmiAhrA5jUYUiIMC59G92kIbY/AaQOWcBdq+lh+zg==
+
 "@sveltejs/vite-plugin-svelte-inspector@^4.0.1":
   version "4.0.1"
   resolved "https://registry.yarnpkg.com/@sveltejs/vite-plugin-svelte-inspector/-/vite-plugin-svelte-inspector-4.0.1.tgz#2f99a4a593bb910d1492f6c00a042b521c07147e"
