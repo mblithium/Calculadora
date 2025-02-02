@@ -43,6 +43,7 @@ const PWA_Manifest = {
 
 // https://vite.dev/config/
 export default defineConfig({
+  base: '/',
   plugins: [
     svelte(),
     VitePWA({ 
@@ -54,5 +55,4 @@ export default defineConfig({
       manifest: PWA_Manifest
     })
   ],
-  base: 'Calculadora/',
 })
