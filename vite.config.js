@@ -54,5 +54,5 @@ export default defineConfig({
       manifest: PWA_Manifest
     })
   ],
-  base: '/Calculadora/',
+  base: 'Calculadora/',
 })
