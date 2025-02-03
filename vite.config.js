@@ -7,7 +7,7 @@ const PWA_Manifest = {
   "short_name": "Calculadora",
   "id": "/",
   "description": "Apenas uma calculadora",
-  "start_url": "/",
+  "start_url": "./Calculadora/",
   "display": "fullscreen",
   "background_color": "#fff",
   "theme_color": "#fff",
