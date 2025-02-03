@@ -53,6 +53,9 @@ export default defineConfig({
         globPatterns: ['**/*.{js,css,html,ico,png,svg}']
       },
       manifest: PWA_Manifest
-    })
+    }),
   ],
+  define: {
+    'process.env.BASE_PATH': JSON.stringify(process.env.BASE_PATH || '/')
+  }
 })

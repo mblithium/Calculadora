@@ -15,7 +15,6 @@
   function reasignExp(target) {
     globalState.exp = target.value.replaceAll(" ", "&").split("&");
   }
-
 </script>
 
 <main>
