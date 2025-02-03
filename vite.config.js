@@ -43,7 +43,7 @@ const PWA_Manifest = {
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: process.env.BASE_PATH || '/',
+  base: '/Calculadora/',
   plugins: [
     svelte(),
     VitePWA({ 
@@ -55,7 +55,4 @@ export default defineConfig({
       manifest: PWA_Manifest
     }),
   ],
-  define: {
-    'process.env.BASE_PATH': JSON.stringify(process.env.BASE_PATH || '/')
-  }
 })
